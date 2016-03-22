@@ -14,7 +14,8 @@
 do
 
 function run(msg, matches)
-  return 'DBTeam Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nDevelopers: @MaSkAoS @Josepdal\nSupport: @skneos @iicc1 @Serx666\nChannels: @DBTeamEN @DBTeamES\n\nCheckout: https://github.com/Josepdal/DBTeam\nGNU GPL v2 license.'
+  return 'CroCodile Bot V 1.85 /n [Coder][Sudo]SikTirMirza (AliDestroyer) /n @Shopbuy /n Special Thanks To : /n KingJan123 /n Pooria /n Manan /n Matin /n Mohamad tictic /n Mehran For Sucking My Dick /n And Other Members Of #Destroyer_Team /n This Bot Have A 8 Core Vps And Not On Cloud9 (C9).  Please Dont Ask For Server Of Bot
+For Giving Anti Spam Managed Group Go To CroCodile Support Group Or Pv Of Bot @CroCodileTg'
 end
 
 return {

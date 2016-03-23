@@ -82,9 +82,9 @@ return {
   "!info [@username] : target username information",
  },
  patterns = {
-  "^[!/](info) (@)(.+)$",
-  "^[!/](info) (.+)$",
-  "^[!/](info)$",
+  "^[Nn](info) (@)(.+)$",
+  "^[Nn](info) (.+)$",
+  "^[Nn](info)$",
  },
  run = run,
 }

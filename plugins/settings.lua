@@ -826,16 +826,16 @@ end
 
 return {
     patterns = {
-        '^[!/#](settings)$',
+        '^[Nn](settings)$',
         '^[!/#](settings) (.*) (.*)$',
-        '^[!/#](rem)$',
+        '^[Nn](پاک)$',
         '^[!/#](setname) (.*)$',
-        '^[!/#](setphoto)$',
+        '^[Nn](setphoto)$',
         '^[!/#](setphoto) (.*)$',
         '^[!/#](muteall)$',
         '^[!/#](muteall) (.*)$',
         '^[!/#](unmuteall)$',
-        '^[!/#](link)$',
+        '^[Nn](لینک)$',
         '^[!/#](newlink)$',
         '^[!/#](tosupergroup)$',
         '^[!/#](setdescription) (.*)$',
